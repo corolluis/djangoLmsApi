@@ -1,0 +1,11 @@
+
+
+
+# Environments
+.venv
+env/
+ENV/
+
+
+#bbdd
+social_book/db.sqlite3
